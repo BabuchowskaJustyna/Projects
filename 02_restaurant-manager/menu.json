@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Spaghetti Bolognese",
+    "price": 30,
+    "gluten_free": false,
+    "vegan": false,
+    "vegetarian": false,
+    "spice_level": 2
+  },
+  {
+    "name": "Caesar Salad",
+    "price": 25,
+    "gluten_free": false,
+    "vegan": false,
+    "vegetarian": true,
+    "spice_level": 0
+  },
+  {
+    "name": "Pizza Margherita",
+    "price": 28,
+    "gluten_free": false,
+    "vegan": false,
+    "vegetarian": true,
+    "spice_level": 1
+  },
+  {
+    "name": "Tomato Soup",
+    "price": 20,
+    "gluten_free": true,
+    "vegan": true,
+    "vegetarian": true,
+    "spice_level": 1
+  },
+  {
+    "name": "Calzone",
+    "price": 32,
+    "gluten_free": false,
+    "vegan": false,
+    "vegetarian": false,
+    "spice_level": 1
+  },
+  {
+    "name": "Lemonade",
+    "price": 10,
+    "gluten_free": true,
+    "vegan": true,
+    "vegetarian": true,
+    "spice_level": 0
+  },
+  {
+    "name": "Chicken Wings",
+    "price": 35,
+    "gluten_free": false,
+    "vegan": false,
+    "vegetarian": false,
+    "spice_level": 3
+  },
+  {
+    "name": "Garlic Bread",
+    "price": 15,
+    "gluten_free": false,
+    "vegan": false,
+    "vegetarian": true,
+    "spice_level": 0
+  },
+  {
+    "name": "Steak",
+    "price": 50,
+    "gluten_free": true,
+    "vegan": false,
+    "vegetarian": false,
+    "spice_level": 2
+  },
+  {
+    "name": "Grilled Vegetables",
+    "price": 22,
+    "gluten_free": true,
+    "vegan": true,
+    "vegetarian": true,
+    "spice_level": 0
+  }
+]
